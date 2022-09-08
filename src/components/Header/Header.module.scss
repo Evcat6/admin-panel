@@ -1,0 +1,22 @@
+.Header {
+    background-color: white;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    border-radius: 0px 0px 9px 9px;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 110px;
+}
+
+.notification {
+    font-size: 24px;
+    color: #2F80ED;
+    cursor: pointer;
+}

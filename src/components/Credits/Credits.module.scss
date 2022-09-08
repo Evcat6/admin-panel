@@ -1,0 +1,23 @@
+.Credits {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px 0;
+    width: 256px;
+    height: 80px;
+    background-color: white;
+    border-radius: 9px;
+}
+
+
+.title {
+    font-size: 14px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.version {
+    color: #8E8E93;
+    text-align: center;
+    font-size: 12px;
+}

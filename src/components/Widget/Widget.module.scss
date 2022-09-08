@@ -1,0 +1,64 @@
+.Widget {
+    width: 472px;
+    height: 472px;
+    background-color: white;
+    border-radius: 9px;
+    margin: 0 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.title {
+    margin-left: 30px;
+    margin-top: 18px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.subtitle {
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #8E8E93;
+}
+
+.chart {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+.item {
+    display: flex;
+    margin-top: 10px;
+    margin-right:20px ;
+}
+
+
+.circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.chart_item {
+    margin-left: 5px;  
+}
+
+
+.all_items {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.default {
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    height: 100%;
+    color: #8E8E93;
+    font-size: 20px;
+    font-weight: 400;
+}
